@@ -1,16 +1,7 @@
-# flutter_traditional_snack
+# Mobile Application Flutter - Exhibition
 
-A new Flutter project.
+## Introduction
+The Mobile Application has three pages, one for a page that displays all traditional food products complete with pictures and prices. the second page is a traditional food detail page complete with a description of the food. page when is a shopping cart page. The interesting thing about this display lies on the page when it displays images of ordered food and food images are more responsive.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Traditional Food App Final UI
+![Banner Traditional Food](https://user-images.githubusercontent.com/38379100/148163571-afbb13eb-2b47-41ae-8eff-37eee1b977be.png)
